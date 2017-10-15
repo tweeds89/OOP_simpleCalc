@@ -8,7 +8,7 @@
             <input type="number" name ="num1">          
             <select name="cal">
                 <option value="add">Add</option>
-                <option value="sub">Substract</option>
+                <option value="sub">Subtract</option>
                 <option value="mul">Multiply</option>
                 <option value="div">Divide</option>
             </select>
